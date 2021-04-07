@@ -1,8 +1,8 @@
 # Example Repo Title
 Hello world!!!! 
 
-<!-- Second change!
-
+Second change!
+Hello coders
 # New version of this course (2020)
 ### gitforeverybody.com
 
@@ -26,4 +26,3 @@ You can find Git Essentials on:
 
 ## The original blog post from 2018
 .. can be found here -> [View the full blog post with video](https://kalob.io/blog/getting-started-with-github/)
- -->
